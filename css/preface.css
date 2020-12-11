@@ -11,3 +11,6 @@
 	color: black;
 	font-size: 18px;
 }
+.page ul>li{
+	color: red;
+}
